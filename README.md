@@ -13,3 +13,7 @@ no easy way to manipulate the saves efficiently.
 
 
 Disclaimer: This is a program I created by myself, and this is my first ever full program, so there will probably be bugs and other issues. 
+
+
+
+KKLtoKisekae was written in C++ utilizing Qt and CMake for program compilation and design.
