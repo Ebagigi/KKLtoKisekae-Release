@@ -1,3 +1,5 @@
+If you discover a bug that is not already on here, please report it in an email to ebagigidev@gmail.com
+
 Current Known Bugs:
 
 Ribbons can be made unusable if the ribbon was at some of the kkl attatchment points
